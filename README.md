@@ -116,6 +116,6 @@ Bu ISO dosyası performans odaklı özel düzenlemeler içermektedir. Bu sistemi
 İNDİRME BAĞLANTILARI
 --------------------
 
-[GOFİLE:](https://gofile.io/d/VZI5cw2A)
+[GOFİLE:]()
 
-[ALTERNATİF - MEDİAFİRE](https://www.mediafire.com/file/ok2lte3cg9rx1tb/W10_TD_SYS_PRO.iso/file)
+[ALTERNATİF - MEDİAFİRE]()
