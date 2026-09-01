@@ -2,7 +2,7 @@
 ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=delipetro06&color=blueviolet&style=flat-square&label=Z%C4%B0YARET%C3%87%C4%B0)
 
 ### 📊 GitHub İstatistiklerim
-![delipetro06 GitHub Stats](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=delipetro06&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delipetro06&theme=dark)
 
 # Windows-10-Oyun-ve-Performans-Odakl-ISO
 Çalışmayla alakalı düzenlemeler ve indirme linkleri hakkında bilgi edinebilirsiniz...
