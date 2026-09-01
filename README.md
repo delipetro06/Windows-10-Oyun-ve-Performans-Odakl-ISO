@@ -1,8 +1,8 @@
 ### 👁️ Sayfa Görüntülenme Sayısı
-![Ziyaretçi Sayısı](https://profile-counter.glitch.me/delipetro06/count.svg)
+![Ziyaretçi Sayısı](https://hits.seeyoufarm.ml/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdelipetro06&count_bg=%237928CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Ziyaret%C3%A7i&edge_flat=false)
 
 ### 📊 GitHub İstatistiklerim
-![delipetro06 GitHub Stats](https://github-readme-stats.vercel.app/api?username=delipetro06&show_icons=true&theme=radial)
+![delipetro06 GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=delipetro06&show_icons=true&theme=dark)
 
 # Windows-10-Oyun-ve-Performans-Odakl-ISO
 Çalışmayla alakalı düzenlemeler ve indirme linkleri hakkında bilgi edinebilirsiniz...
