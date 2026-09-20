@@ -113,9 +113,6 @@ Bu ISO dosyası performans odaklı özel düzenlemeler içermektedir. Bu sistemi
 -WİNSXS\YEDEKLEME
 -YAPIŞKAN NOTLAR (M.STORE'DAN YÜKLENEBİLİR)
 
-İNDİRME BAĞLANTILARI
+İNDİRME BAĞLANTISI:
 --------------------
-
-[GOFİLE:](https://gofile.io/d/Kb61LpCK)
-
 [ALTERNATİF - MEDİAFİRE](https://www.mediafire.com/file/qqinrvodtulhp9p/W10_TD_SYS_PRO.iso/file)
